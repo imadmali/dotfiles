@@ -1,0 +1,20 @@
+"*":
+  core:
+    disabledPackages: [
+      "build"
+      "markdown-preview"
+    ]
+    telemetryConsent: "limited"
+    themes: [
+      "nord-atom-ui"
+      "nord-atom-syntax"
+    ]
+  editor:
+    softWrap: true
+  "exception-reporting":
+    userId: "d14788d1-2961-7352-049e-4f9e6b295785"
+  minimap: {}
+  "tree-view":
+    hideVcsIgnoredFiles: true
+  welcome:
+    showOnStartup: false

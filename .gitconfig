@@ -1,0 +1,7 @@
+[user]
+	email = imadmali@gmail.com
+	name = Imad Ali
+[alias]
+	prettylog = log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %n %C(green)(%cr) %n %C(blue)<%an>%Creset' --abbrev-commit
+[core]
+	editor = nano
